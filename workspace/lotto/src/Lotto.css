@@ -1,0 +1,22 @@
+.mainDiv {    
+    display: flex;
+    border: 2px;
+    padding: 6px;     
+}
+
+.childrenDiv {   
+    flex: 1;     
+    flex-direction: column;
+    text-align: center; 
+    justify-content: center;
+}
+
+.button {
+    margin-top: 20px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.u_text {
+    /* text-shadow: 1px 1px #d90b0b;  */
+}
